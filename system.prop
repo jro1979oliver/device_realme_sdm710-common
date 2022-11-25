@@ -6,6 +6,9 @@ ro.bluetooth.wipower=false
 ro.bluetooth.emb_wp_mode=false
 persist.vendor.bt.a2dp_offload_cap=sbc-aac-aptx-aptxhd-ldac
 
+# Blur
+persist.sys.sf.disable_blurs=1
+
 # Camera
 ro.camera.hfr.enable=1
 ro.camera.relight.enable=0
